@@ -1,9 +1,9 @@
 # Redes Neuronales Convolucionales U-Net en la Estimación de Superficie Glaciar en Imágenes Multiespectrales Sentinel 2 en el Glaciar Ausangate, 2019
-## Authors
+## Autor
 
-* **Percy Elbis Coque Caillahua**
+* **Percy Elbis Coque**
 
-## Acknowledgments
+## Reconocimientos
 
 * Google Earth Engine-API [PurpleBooth](https://github.com/google/earthengine-api)
 * Presentacion de [Chris Brown & Nick Clinton EarthEngine + Tensorflow presentation,2018](https://www.youtube.com/watch?v=w-1xfF0IaeU)
