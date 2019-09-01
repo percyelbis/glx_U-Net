@@ -1,6 +1,6 @@
 # Redes Neuronales Convolucionales U-Net en la Estimación de Superficie Glaciar en Imágenes Multiespectrales Sentinel 2 en el Glaciar Ausangate, 2019
 ## 
-* Abrir en Colaboratory[<img src="https://colab.research.google.com/img/colab_favicon.ico" width="50" alt="Colab"/>](https://colab.research.google.com/drive/1_3DaVTQbkjF4tJYNSI34u4RN23xENBvP)
+* Abrir en Colaboratory[<img src="https://colab.research.google.com/img/colab_favicon.ico" width ="50" hight = "50" alt="Colab"/>](https://colab.research.google.com/drive/1_3DaVTQbkjF4tJYNSI34u4RN23xENBvP)
 ## Resultados
 * [Segmentacion de Algunos Glaciares (Glx) Importantes del Perú](https://percyelbis.github.io/glx_unet/)
 ## Autor
