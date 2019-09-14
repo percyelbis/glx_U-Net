@@ -3,7 +3,7 @@
 * Paper [Aqui](https://arxiv.org/abs/1505.04597)
 ## Resultados
 * [Segmentacion de Algunos Glaciares (Glx) Importantes del Perú](https://percyelbis.github.io/glx_unet/)
-* [Modelo Pre-Entrenado]('https://drive.google.com/open?id=1_1M9_zziF753YSVWEx3nKFZx0uJJtglk')
+* [Modelo Pre-Entrenado](https://drive.google.com/open?id=1_1M9_zziF753YSVWEx3nKFZx0uJJtglk)
 ## Autor
 
 * **Percy Elbis Colque**
