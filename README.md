@@ -1,5 +1,5 @@
 # Glx U-Net
-[<img src="https://drive.google.com/open?id=16o0CxssqSVbImCvGYQpqBh4ZiYp0jk4b" width ="300" hight = "400" alt="Colab"/>]
+[<img src="https://3.bp.blogspot.com/--G_YrgBPoGk/XYE9EK9Q-fI/AAAAAAAAA2c/1BzRjutg_oIuwF_qBHz5W3oc_XfZDKDigCLcBGAsYHQ/s400/glx2019.jpg" width ="300" hight = "400" alt="Glx U-Net"/>]
 * Abrir en Colaboratory[<img src="https://colab.research.google.com/img/colab_favicon.ico" width ="30" hight = "40" alt="Colab"/>](https://colab.research.google.com/drive/1_3DaVTQbkjF4tJYNSI34u4RN23xENBvP)
 * Paper [Aqui](https://arxiv.org/abs/1505.04597)
 ## Resultados
