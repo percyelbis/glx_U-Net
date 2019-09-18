@@ -1,10 +1,13 @@
 # Glx U-Net
+* Ejemplo de Predicción
 [<img src="https://3.bp.blogspot.com/--G_YrgBPoGk/XYE9EK9Q-fI/AAAAAAAAA2c/1BzRjutg_oIuwF_qBHz5W3oc_XfZDKDigCLcBGAsYHQ/s400/glx2019.jpg" width ="300" hight = "400" alt="Glx U-Net"/>]
 * Abrir en Colaboratory[<img src="https://colab.research.google.com/img/colab_favicon.ico" width ="30" hight = "40" alt="Colab"/>](https://colab.research.google.com/drive/1_3DaVTQbkjF4tJYNSI34u4RN23xENBvP)
 * Paper [Aqui](https://arxiv.org/abs/1505.04597)
 ## Resultados
 * [Segmentacion de Algunos Glaciares (Glx) Importantes del Perú](https://percyelbis.github.io/glx_unet/)
 * [Modelo Pre-Entrenado](https://drive.google.com/open?id=1_1M9_zziF753YSVWEx3nKFZx0uJJtglk)
+## Arquitectura
+[<img src="https://4.bp.blogspot.com/-dDTEpG4oI9E/XYGS6WvJygI/AAAAAAAAA2w/ykYRFC4it1MFWkt3X6VbfzxthzILTSDpgCLcBGAsYHQ/s400/modelo.png" width="64" height="400"  alt="Glx U-Net"/>]
 ## Autor
 
 * **Percy Elbis Colque**
